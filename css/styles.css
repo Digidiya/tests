@@ -1,0 +1,148 @@
+ body {
+	margin: 0;
+	padding: 0;
+	background: #8c2c74;
+ }
+ 
+ #background 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: relative; 
+	 margin-left: auto; 
+	 margin-right: auto; 
+	 width: 750px;
+	 height: 1334px; 
+	 overflow: hidden;
+	 z-index:0;
+	} 
+
+ #Background 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: absolute; 
+	 width: 750px;
+	 height: 1334px;
+	 z-index:1;
+} 
+
+ #Asset4 
+{ 
+	 left: 0px; 
+	 top: -1px; 
+	 position: absolute; 
+	 width: 750px;
+	 height: 1335px;
+	 z-index:2;
+} 
+
+ #Asset10 
+{ 
+	 left: 87px; 
+	 top: 84px; 
+	 position: absolute; 
+	 width: 575px;
+	 height: 1167px;
+	 z-index:3;
+} 
+
+ #Rectangle1 
+{ 
+	 left: 223px; 
+	 top: 1089px; 
+	 position: absolute; 
+	 width: 303px;
+	 height: 83px;
+	 z-index:4;
+} 
+
+ #LETsshuffle 
+{ 
+	 left: 255px; 
+	 top: 1120px; 
+	 position: absolute; 
+	 width: 239px;
+	 height: 20px;
+	 z-index:15;
+} 
+
+ #VectorSmartObject 
+{ 
+	 left: 222px; 
+	 top: 824px; 
+	 position: absolute; 
+	 width: 307px;
+	 height: 210px;
+	 z-index:6;
+} 
+
+ #Asset7 
+{ 
+	 left: 197px; 
+	 top: 460px; 
+	 position: absolute; 
+	 width: 356px;
+	 height: 32px;
+	 z-index:7;
+} 
+
+ #Asset2 
+{ 
+	 left: 24px; 
+	 top: 24px; 
+	 position: absolute; 
+	 width: 702px;
+	 height: 113px;
+	 z-index:8;
+} 
+
+ #Asset1 
+{ 
+	 left: 37px; 
+	 top: 110px; 
+	 position: absolute; 
+	 width: 675px;
+	 height: 1224px;
+	 z-index:9;
+} 
+
+ #Asset5 
+{ 
+	 left: 144px; 
+	 top: 523px; 
+	 position: absolute; 
+	 width: 463px;
+	 height: 137px;
+	 z-index:10;
+} 
+
+ #Asset6 
+{ 
+	 left: 311px; 
+	 top: 649px; 
+	 position: absolute; 
+	 width: 128px;
+	 height: 142px;
+	 z-index:11;
+} 
+
+ #Asset11 
+{ 
+	 left: 255px; 
+	 top: 186px; 
+	 position: absolute; 
+	 width: 240px;
+	 height: 259px;
+	 z-index:12;
+} 
+
+ #Asset8 
+{ 
+	 left: 159px; 
+	 top: 325px; 
+	 position: absolute; 
+	 width: 432px;
+	 height: 83px;
+	 z-index:13;
+} 

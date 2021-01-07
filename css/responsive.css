@@ -1,0 +1,1045 @@
+.inline-otp input[type="text"] {
+       margin: 0px;
+    padding: 2px;
+    text-align: center;
+    font-size: 20px;
+}
+.form-group.inline-otp {
+    margin: 0px auto;
+    display: inline-block;
+}
+@media only screen and (max-width:1024px) {
+    .grey111 input#phone {
+    font-size: 50px;
+}
+    button.btn.btn-primary.purple.yellow {
+    font-size: 50px;
+    background: yellow;
+    padding: 2px 40px;
+    color: black;
+    font-weight: 700;
+}
+    .grey111 h3 {
+    color: white;
+    text-align: center;
+    font-size: 100px;
+    margin-bottom: 30px;
+    font-weight: 700;
+}
+.grey111 p {
+    color: white;
+    margin-top: 5px;
+    font-size: 30px;
+    margin-bottom: 30px;
+}
+    .inline-otp input[type="text"] {
+    margin: 0px;
+    padding: 2px;
+    text-align: center;
+    font-size: 55px;
+}
+     img.img-responsive.icons {
+    position: absolute;
+    top: 38%;
+    width: 60% !important;
+    left: 200px;
+}
+    .grey11 img.img-responsive {
+    width: 400px;
+    margin: 0px auto;
+    padding-top: 90px;
+    display: block;
+}
+     .green img.img-responsive {
+    width: 900px;
+}
+.greenpurple img.img-responsive {
+    width: 980px;
+}
+.yellow img.img-responsive {
+    width: 980px;
+}
+img.row.image-include {
+    right: 800px;
+}
+img.row.image-include2 {
+    left: 800px;
+}
+img.row.image-include4 {
+    right: 800px;
+}
+img.row.image-include44 {
+    left: 800px;
+}
+#gallery .previous {
+    margin-left: 100px;
+}
+#gallery .next {
+    margin-right: 100px;
+}
+body.third {
+    overflow: scroll;
+}
+body.second {
+    overflow: scroll;
+}
+.grey1 img.img-responsive {
+    width: 650px;
+  
+}
+.grey img.img-responsive {
+    width: 550px;
+  
+}
+#gallerywrapper {
+    width:100%;
+    height:650px;
+     margin:0 auto;
+     position:relative;
+     font-family:verdana, arial, sans-serif;
+ } 
+
+ #gallerywrapper #gallery {
+     position:absolute;
+     left:0;
+     top:0;
+     height:650px;
+     width:100%;
+     overflow:hidden;
+     text-align:center;
+ } 
+
+ #gallerywrapper #gallery div {
+     width: 100%;
+     height:650px;
+    padding-top: 10px;
+    position: relative;
+ } 
+
+ #gallerywrapper #gallery div img {
+     clear:both; 
+     display:block; 
+     margin:0 auto; 
+     border:0;
+ } 
+
+#gallerywrapper #gallery div h3 {
+    margin: 0;
+    color: white;
+    font-size: 64px;
+    font-weight: 800;
+}
+label.btn.btn-primary.purple {
+    font-size: 40px;
+}
+button.btn.btn-primary.purple {
+    font-size: 40px;
+}
+}
+
+@media only screen and (width:768px) {
+     .grey111 input#phone {
+    font-size: 50px;
+}
+    
+    button.btn.btn-primary.purple.yellow {
+    font-size: 40px;
+    background: yellow;
+    padding: 2px 40px;
+    color: black;
+    font-weight: 700;
+}
+    .grey111 h3 {
+    color: white;
+    text-align: center;
+    font-size: 72px;
+    margin-bottom: 30px;
+    font-weight: 700;
+}
+    .grey111 p {
+    color: white;
+    margin-top: 5px;
+    font-size: 24px;
+    margin-bottom: 30px;
+}
+    .inline-otp input[type="text"] {
+    margin: 0px;
+    padding: 2px;
+    text-align: center;
+    font-size: 40px;
+}
+    img.img-responsive.icons {
+    position: absolute;
+    top: 38%;
+    width: 60% !important;
+    left: 160px;
+}
+    .grey11 img.img-responsive {
+    width: 350px;
+    margin: 0px auto;
+    padding-top: 35px;
+    display: block;
+}
+    .green img.img-responsive {
+    width: 730px;
+}
+.greenpurple img.img-responsive {
+    width: 730px;
+}
+.yellow img.img-responsive {
+    width: 730px;
+}
+img.row.image-include {
+    right: 580px;
+}
+img.row.image-include2 {
+    left: 580px;
+}
+img.row.image-include4 {
+    right: 580px;
+}
+img.row.image-include44 {
+    left: 580px;
+}
+#gallery .previous {
+    margin-left: 100px;
+}
+#gallery .next {
+    margin-right: 100px;
+}
+body.third {
+    overflow: scroll;
+}
+body.second {
+    overflow: scroll;
+}
+.grey1 img.img-responsive {
+    width: 550px;
+  
+}
+.grey img.img-responsive {
+    width: 500px;
+  
+}
+#gallerywrapper {
+    width:100%;
+    height:550px;
+     margin:0 auto;
+     position:relative;
+     font-family:verdana, arial, sans-serif;
+ } 
+
+ #gallerywrapper #gallery {
+     position:absolute;
+     left:0;
+     top:0;
+     height:550px;
+     width:100%;
+     overflow:hidden;
+     text-align:center;
+ } 
+
+ #gallerywrapper #gallery div {
+     width: 100%;
+     height:550px;
+    padding-top: 10px;
+    position: relative;
+ } 
+
+ #gallerywrapper #gallery div img {
+     clear:both; 
+     display:block; 
+     margin:0 auto; 
+     border:0;
+ } 
+
+#gallerywrapper #gallery div h3 {
+    margin: 0;
+    color: white;
+    font-size: 56px;
+    font-weight: 800;
+}
+label.btn.btn-primary.purple {
+    font-size: 40px;
+}
+button.btn.btn-primary.purple {
+    font-size: 40px;
+}
+
+}
+
+
+@media only screen and (max-width:450px) {
+     .grey111 input#phone {
+    font-size: 20px;
+}
+    button.btn.btn-primary.purple.yellow {
+    font-size: 20px;
+    background: yellow;
+    padding: 2px 40px;
+    color: black;
+    font-weight: 700;
+}
+   .grey111 h3 {
+    color: white;
+    text-align: center;
+    font-size: 38px;
+    margin-bottom: 30px;
+    font-weight: 700;
+}
+  .grey111 p {
+    color: white;
+    margin-top: 5px;
+    font-size: 14px;
+    margin-bottom: 30px;
+}
+    .inline-otp input[type="text"] {
+       margin: 0px;
+    padding: 1px;
+    text-align: center;
+    font-size: 18px;
+}
+.form-group.inline-otp {
+    margin: 0px auto;
+    display: inline-block;
+}
+    img.img-responsive.icons {
+    position: absolute;
+    top: 38%;
+    width: 60% !important;
+    left: 85px;
+}
+    .grey11 img.img-responsive {
+    width: 200px;
+    padding-top: 5px;
+    margin: 0px auto;
+    display: block;
+}
+    .green img.img-responsive {
+    margin: 0px auto;
+    width: 330px;
+    height: auto;
+    padding: 15px 0px 15px 0px;
+    overflow: hidden;
+    display: block;
+}
+    img.row.image-include4 {
+        height: 212%;
+    position: absolute;
+    width: 20%;
+    top: 0px;
+    right: 365px;
+}
+img.row.image-include44 {
+    height: 212%;
+    position: absolute;
+    width: 20%;
+    top: 0px;
+    left: 365px;
+}
+    .grey img.img-responsive {
+    margin: 0px auto;
+    width: 230px;
+    height: auto;
+    padding: 20px 20px 20px 20px;
+    overflow: hidden;
+    display: block;
+    background: #d0ddec;
+}
+        .grey1 img.img-responsive {
+    margin: 0px auto;
+    width: 300px;
+    height: auto;
+    padding: 20px 20px 20px 20px;
+    overflow: hidden;
+    display: block;
+}
+#gallerywrapper #gallery div h3 {
+    margin: 0;
+    color: white;
+    font-size: 22px;
+    font-weight: 800;
+}
+.greenpurple img.img-responsive {
+    margin: 0px auto;
+    width: 380px;
+    height: auto;
+    padding: 15px 0px 15px 0px;
+    overflow: hidden;
+    display: block;
+}
+img.row.image-include2 {
+    position: absolute;
+    width: 20%;
+    top: -35px;
+    left: 340px;
+}
+img.row.image-include {
+    position: absolute;
+    width: 20%;
+    top: -35px;
+    right: 340px;
+}
+#gallerywrapper {
+    width:100%;
+    height:300px;
+     margin:0 auto;
+     position:relative;
+     font-family:verdana, arial, sans-serif;
+ } 
+
+ #gallerywrapper #gallery {
+     position:absolute;
+     left:0;
+     top:0;
+     height:300px;
+     width:100%;
+     overflow:hidden;
+     text-align:center;
+ } 
+
+ #gallerywrapper #gallery div {
+     width: 100%;
+     height:300px;
+    padding-top: 10px;
+    position: relative;
+ } 
+ label.btn.btn-primary.purple {
+    font-size:22px;
+}
+button.btn.btn-primary.purple {
+     font-size:22px;
+}
+.yellow img.img-responsive {
+    margin: 0px auto;
+    width: 380px;
+    height: auto;
+    padding: 15px 0px 15px 0px;
+    overflow: hidden;
+    display: block;
+}
+}
+
+
+@media only screen and (max-width:430px) {
+    .inline-otp input[type="text"] {
+       margin: 0px;
+    padding: 1px;
+    text-align: center;
+    font-size: 18px;
+}
+.form-group.inline-otp {
+    margin: 0px auto;
+    display: inline-block;
+}
+    img.img-responsive.icons {
+    position: absolute;
+    top: 38%;
+    width: 60% !important;
+    left: 85px;
+}
+    .grey11 img.img-responsive {
+    width: 200px;
+    padding-top: 5px;
+    margin: 0px auto;
+    display: block;
+}
+    .green img.img-responsive {
+    margin: 0px auto;
+    width: 330px;
+    height: auto;
+    padding: 15px 0px 15px 0px;
+    overflow: hidden;
+    display: block;
+}
+    img.row.image-include4 {
+        height: 212%;
+    position: absolute;
+    width: 20%;
+    top: 0px;
+    right: 350px;
+}
+img.row.image-include44 {
+    position: absolute;
+    height: 212%;
+    width: 20%;
+    top: 0px;
+    left: 350px;
+}
+    .grey img.img-responsive {
+    margin: 0px auto;
+    width: 230px;
+    height: auto;
+    padding: 20px 20px 20px 20px;
+    overflow: hidden;
+    display: block;
+    background: #d0ddec;
+}
+        .grey1 img.img-responsive {
+    margin: 0px auto;
+    width: 300px;
+    height: auto;
+    padding: 20px 20px 20px 20px;
+    overflow: hidden;
+    display: block;
+}
+#gallerywrapper #gallery div h3 {
+    margin: 0;
+    color: white;
+    font-size: 22px;
+    font-weight: 800;
+}
+.greenpurple img.img-responsive {
+    margin: 0px auto;
+    width: 380px;
+    height: auto;
+    padding: 15px 0px 15px 0px;
+    overflow: hidden;
+    display: block;
+}
+img.row.image-include2 {
+    position: absolute;
+    width: 20%;
+    top: -35px;
+    left: 340px;
+}
+img.row.image-include {
+    position: absolute;
+    width: 20%;
+    top: -35px;
+    right: 340px;
+}
+#gallerywrapper {
+    width:100%;
+    height:300px;
+     margin:0 auto;
+     position:relative;
+     font-family:verdana, arial, sans-serif;
+ } 
+
+ #gallerywrapper #gallery {
+     position:absolute;
+     left:0;
+     top:0;
+     height:300px;
+     width:100%;
+     overflow:hidden;
+     text-align:center;
+ } 
+
+ #gallerywrapper #gallery div {
+     width: 100%;
+     height:300px;
+    padding-top: 10px;
+    position: relative;
+ } 
+ label.btn.btn-primary.purple {
+    font-size:22px;
+}
+button.btn.btn-primary.purple {
+     font-size:22px;
+}
+.yellow img.img-responsive {
+    margin: 0px auto;
+    width: 380px;
+    height: auto;
+    padding: 15px 0px 15px 0px;
+    overflow: hidden;
+    display: block;
+}
+}
+
+
+
+
+
+
+@media only screen and (max-width:414px) {
+    img.row.image-include4 {
+    position: absolute;
+    height: 212%;
+    width: 20%;
+    top: 0px;
+    right: 350px;
+}
+img.row.image-include44 {
+    height: 212%;
+    position: absolute;
+    width: 20%;
+    top: 0px;
+    left: 350px;
+}
+    img.img-responsive.icons {
+    position: absolute;
+    top: 38%;
+    width: 60% !important;
+    left: 85px;
+}
+    .grey img.img-responsive {
+    margin: 0px auto;
+    width: 230px;
+    height: auto;
+    padding: 20px 20px 20px 20px;
+    overflow: hidden;
+    display: block;
+    background: #d0ddec;
+}
+    .grey1 img.img-responsive {
+    margin: 0px auto;
+    width: 300px;
+    height: auto;
+    padding: 20px 20px 20px 20px;
+    overflow: hidden;
+    display: block;
+}
+#gallerywrapper #gallery div h3 {
+    margin: 0;
+    color: white;
+    font-size: 22px;
+    font-weight: 800;
+}
+   .greenpurple img.img-responsive {
+    margin: 0px auto;
+    width: 380px;
+    height: auto;
+    padding: 15px 0px 15px 0px;
+    overflow: hidden;
+    display: block;
+}
+      body.third {
+    width: 103%;
+}
+body.second {
+    width: 103%;
+}
+#gallery .previous {
+    margin-left: 45px;
+}
+#gallery .next {
+    margin-right: 45px;
+}
+#gallery .previous {
+    margin-left: 45px;
+}
+#gallery .next {
+    margin-right: 45px;
+}
+ label.btn.btn-primary.purple {
+    font-size:22px;
+}
+button.btn.btn-primary.purple {
+     font-size:22px;
+}
+.yellow img.img-responsive {
+    margin: 0px auto;
+    width: 380px;
+    height: auto;
+    padding: 15px 0px 15px 0px;
+    overflow: hidden;
+    display: block;
+}
+}
+
+
+@media only screen and (max-width: 411px){
+            img.row.image-include4 {
+        height: 155%;
+    position: absolute;
+   width: 20%;
+    top: 0;
+    right: 330px;
+}
+img.row.image-include44 {
+     height: 155%;
+    position: absolute;
+    width: 20%;
+    top: 0;
+    left: 330px;
+}
+}
+
+@media only screen and (max-width:393px) {
+                img.row.image-include4 {
+        height: auto;
+    position: absolute;
+   width: 20%;
+    top: 0;
+    right: 330px;
+}
+img.row.image-include44 {
+    height: auto;
+    position: absolute;
+    width: 20%;
+    top: 0;
+    left: 330px;
+}
+    img.img-responsive.icons {
+    position: absolute;
+    top: 38%;
+     width: 60% !important;
+    left: 85px;
+}
+    .grey img.img-responsive {
+    margin: 0px auto;
+    width: 230px;
+    height: auto;
+    padding: 20px 20px 20px 20px;
+    overflow: hidden;
+    display: block;
+    background: #d0ddec;
+}
+        .grey1 img.img-responsive {
+    margin: 0px auto;
+    width: 300px;
+    height: auto;
+    padding: 20px 20px 20px 20px;
+    overflow: hidden;
+    display: block;
+}
+#gallerywrapper #gallery div h3 {
+    margin: 0;
+    color: white;
+    font-size: 22px;
+    font-weight: 800;
+}
+    .greenpurple img.img-responsive {
+    margin: 0px auto;
+    width: 380px;
+    height: auto;
+    padding: 15px 0px 15px 0px;
+    overflow: hidden;
+    display: block;
+}
+    body.third {
+    width: 103%;
+}
+body.second {
+    width: 103%;
+}
+#gallery .previous {
+    margin-left: 45px;
+}
+#gallery .next {
+    margin-right: 45px;
+}
+img.row.image-include {
+    position: absolute;
+    width: 20%;
+    top: -35px;
+    right: 330px;
+}
+img.row.image-include2 {
+    position: absolute;
+    width: 20%;
+    top: -35px;
+    left: 330px;
+}
+ label.btn.btn-primary.purple {
+    font-size:22px;
+}
+button.btn.btn-primary.purple {
+     font-size:22px;
+}
+.yellow img.img-responsive {
+    margin: 0px auto;
+    width: 380px;
+    height: auto;
+    padding: 15px 0px 15px 0px;
+    overflow: hidden;
+    display: block;
+}
+}
+@media only screen and (max-width:375px) {
+            img.row.image-include4 {
+        height: auto;
+    position: absolute;
+   width: 20%;
+    top: 0;
+    right: 330px;
+}
+img.row.image-include44 {
+    height: auto;
+    position: absolute;
+    width: 20%;
+    top: 0;
+    left: 330px;
+}
+    img.img-responsive.icons {
+    position: absolute;
+    top: 38%;
+    width: 60% !important;
+    left: 85px;
+}
+    .grey img.img-responsive {
+    margin: 0px auto;
+    width: 230px;
+    height: auto;
+    padding: 20px 20px 20px 20px;
+    overflow: hidden;
+    display: block;
+    background: #d0ddec;
+}
+        .grey1 img.img-responsive {
+            
+    margin: 0px auto;
+    width: 300px;
+    height: auto;
+    padding: 20px 20px 20px 20px;
+    overflow: hidden;
+    display: block;
+}
+#gallerywrapper #gallery div h3 {
+    margin: 0;
+    color: white;
+    font-size: 22px;
+    font-weight: 800;
+}
+  .greenpurple img.img-responsive {
+    margin: 0px auto;
+    width: 380px;
+    height: auto;
+    padding: 15px 0px 15px 0px;
+    overflow: hidden;
+    display: block;
+}
+body.third {
+    width: 107%;
+}
+body.second {
+    width: 107%;
+}
+img.row.image-include {
+    position: absolute;
+    width: 20%;
+    top: -35px;
+    right: 330px;
+}
+img.row.image-include2 {
+    position: absolute;
+    width: 20%;
+    top: -35px;
+    left: 330px;
+}
+#gallery .previous {
+    display: inline;
+    float: left;
+    margin-left: 45px;
+    text-decoration: none;
+}
+#gallery .next {
+    margin-right: 45px;
+}
+ label.btn.btn-primary.purple {
+    font-size:22px;
+}
+button.btn.btn-primary.purple {
+     font-size:22px;
+}
+.yellow img.img-responsive {
+    margin: 0px auto;
+    width: 380px;
+    height: auto;
+    padding: 15px 0px 15px 0px;
+    overflow: hidden;
+    display: block;
+}
+.grey111 h3 {
+    color: white;
+    text-align: center;
+    font-size: 32px;
+    margin-bottom: 30px;
+    font-weight: 700;
+}
+}
+@media only screen and (max-width:360px) {
+            img.row.image-include4 {
+        height: auto;
+    position: absolute;
+   width: 20%;
+    top: 0;
+    right: 330px;
+}
+img.row.image-include44 {
+    height: auto;
+    position: absolute;
+    width: 20%;
+    top: 0;
+    left: 330px;
+}
+    .grey1 img.img-responsive {
+    margin: 0px auto;
+    width: 300px;
+    height: auto;
+    padding: 20px 20px 20px 20px;
+    overflow: hidden;
+    display: block;
+}
+#gallerywrapper #gallery div h3 {
+    margin: 0;
+    color: white;
+    font-size: 22px;
+    font-weight: 800;
+}
+    .greenpurple img.img-responsive {
+    margin: 0px auto;
+    width: 380px;
+    height: auto;
+    padding: 15px 0px 15px 0px;
+    overflow: hidden;
+    display: block;
+}
+body.third {
+    width: 112%;
+}
+body.second {
+    width: 112%;
+}
+img.row.image-include {
+    position: absolute;
+    width: 20%;
+    top: -35px;
+    right: 330px;
+}
+img.row.image-include2 {
+    position: absolute;
+    width: 20%;
+    top: -35px;
+    left: 330px;
+}
+#gallery .previous {
+    display: inline;
+    float: left;
+    margin-left: 45px;
+    text-decoration: none;
+}
+#gallery .next {
+    margin-right: 45px;
+}
+ label.btn.btn-primary.purple {
+    font-size:22px;
+}
+button.btn.btn-primary.purple {
+     font-size:22px;
+}
+.yellow img.img-responsive {
+    margin: 0px auto;
+    width: 380px;
+    height: auto;
+    padding: 15px 0px 15px 0px;
+    overflow: hidden;
+    display: block;
+}
+.grey111 h3 {
+    color: white;
+    text-align: center;
+    font-size: 32px;
+    margin-bottom: 30px;
+    font-weight: 700;
+}
+.grey111 p {
+    color: white;
+    margin-top: 5px;
+    margin-bottom: 30px;
+}
+img.img-responsive.icons {
+    position: absolute;
+    top: 38%;
+    width: 60% !important;
+    left: 85px;
+}
+}
+@media only screen and (max-width:320px) {
+        .grey1 img.img-responsive {
+    margin: 0px auto;
+    width: 300px;
+    height: auto;
+    padding: 20px 20px 20px 20px;
+    overflow: hidden;
+    display: block;
+}
+#gallerywrapper #gallery div h3 {
+    margin: 0;
+    color: white;
+    font-size: 22px;
+    font-weight: 800;
+}
+    .greenpurple img.img-responsive {
+    margin: 0px auto;
+    width: 370px;
+    height: auto;
+    padding: 15px 0px 15px 0px;
+    overflow: hidden;
+    display: block;
+}
+img.img-responsive.icons {
+    position: absolute;
+    top: 38%;
+    width: 60% !important;
+    left: 85px;
+}
+body.third {
+    width: 121%;
+}
+body.second {
+    width: 121%;
+}
+img.row.image-include {
+    position: absolute;
+    width: 20%;
+    top: -35px;
+    right: 320px;
+}
+img.row.image-include2 {
+    position: absolute;
+    width: 20%;
+    top: -35px;
+    left: 320px;
+}
+#gallery .previous {
+    display: inline;
+    float: left;
+    margin-left: 45px;
+    text-decoration: none;
+}
+#gallery .next {
+    margin-right: 45px;
+}
+ label.btn.btn-primary.purple {
+    font-size:22px;
+}
+button.btn.btn-primary.purple {
+     font-size:22px;
+}
+.yellow img.img-responsive {
+    margin: 0px auto;
+    width: 370px;
+    height: auto;
+    padding: 15px 0px 15px 0px;
+    overflow: hidden;
+    display: block;
+}
+.grey111 h3 {
+    color: white;
+    text-align: center;
+    margin-bottom: 30px;
+    font-weight: 700;
+}
+.grey111 p {
+    color: white;
+    margin-top: 5px;
+    margin-bottom: 30px;
+}
+img.row.image-include4 {
+    position: absolute;
+    width: 20%;
+    top: 0;
+    right: 320px;
+}
+img.row.image-include44 {
+    position: absolute;
+    width: 20%;
+    top: 0;
+    left: 320px;
+}
+
+}
